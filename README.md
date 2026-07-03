@@ -53,16 +53,15 @@
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-
 <img src="https://streak-stats.demolab.com?user=rxt1k&theme=dark&hide_border=false" height="170" />
+
+<br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 
-## 🟩 Contribution Heatmap
+<br><br>
 
-<div align="center">
-  <img src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" alt="Contribution Heatmap" width="100%" />
-</div>
+<img src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" width="100%" alt="Contribution Heatmap"/>
 
 </div>
 
