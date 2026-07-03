@@ -48,23 +48,31 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div align="center">
+<table>
+<tr>
+<td width="40%" valign="top">
 
-<img src="https://github-readme-stats.shion.dev/api?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=rxt1k&theme=dark&hide_border=false" height="170" />
+<img src="https://github-readme-stats.shion.dev/api?username=rxt1k&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
+<img src="https://streak-stats.demolab.com?user=rxt1k&theme=dark&hide_border=true" />
 
-<br><br>
+<br>
 
-<img src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" width="100%" alt="Contribution Heatmap"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&layout=compact&theme=dark&hide_border=true" />
 
-</div>
+</td>
 
+<td width="60%" align="center">
+
+<img src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" width="100%" />
+
+</td>
+</tr>
+</table>
 ---
 
 <div align="center">
