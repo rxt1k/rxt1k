@@ -50,30 +50,15 @@
 
 ## 📊 GitHub Overview
 
-<table>
-<tr>
-<td width="40%" valign="top">
+<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=rxt1k&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rxt1k&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br>
+<img width="49%" src="https://streak-stats.demolab.com?user=rxt1k&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&layout=compact&theme=dark&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=rxt1k&theme=dark&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&layout=compact&theme=dark&hide_border=true" />
-
-</td>
-
-<td width="60%" align="center">
-
-<img src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" width="100%" />
-
-</td>
-</tr>
-</table>
----
+</div>
 
 <div align="center">
 
