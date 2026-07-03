@@ -58,7 +58,11 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
 
-![contributions](https://raw.githubusercontent.com/rxt1k/rxt1k/output/contributions.svg)
+## 🟩 Contribution Heatmap
+
+<div align="center">
+  <img src="https://gh-heat.anishroy.com/api/rxt1k/svg?theme=green&darkMode=true" alt="Contribution Heatmap" width="100%" />
+</div>
 
 </div>
 
