@@ -50,11 +50,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rxt1k&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxt1k&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
+<div align="center">
 
+<img src="https://github-readme-stats.shion.dev/api?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=rxt1k&theme=dark&hide_border=false" height="170" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rxt1k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
+
+</div>
 
 ---
 
