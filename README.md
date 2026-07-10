@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ Hey, I'm Ritik.
+# 🕷️ Hey, I'm ritik.
 
 ### friendly neighborhood full-stack dev 🕸️
 
